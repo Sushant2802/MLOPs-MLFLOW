@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/248602002280697844/0f8fa5d7b30d4b8aaaf5a8fca49d94de/artifacts
+end_time: 1738946372013
+entry_point_name: ''
+experiment_id: '248602002280697844'
+lifecycle_stage: active
+run_id: 0f8fa5d7b30d4b8aaaf5a8fca49d94de
+run_name: secretive-boar-352
+run_uuid: 0f8fa5d7b30d4b8aaaf5a8fca49d94de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738946365323
+status: 3
+tags: []
+user_id: susha

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/248602002280697844/31d3c67272254e7fa1da05e94b9c7cf4/artifacts
+deleted_time: 1738851427991
+end_time: 1738851334539
+entry_point_name: ''
+experiment_id: '248602002280697844'
+lifecycle_stage: deleted
+run_id: 31d3c67272254e7fa1da05e94b9c7cf4
+run_name: redolent-gnat-807
+run_uuid: 31d3c67272254e7fa1da05e94b9c7cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738851333487
+status: 4
+tags: []
+user_id: susha

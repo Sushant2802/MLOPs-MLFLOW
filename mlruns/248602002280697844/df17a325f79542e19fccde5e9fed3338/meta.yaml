@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/248602002280697844/df17a325f79542e19fccde5e9fed3338/artifacts
+end_time: 1738850580573
+entry_point_name: ''
+experiment_id: '248602002280697844'
+lifecycle_stage: active
+run_id: df17a325f79542e19fccde5e9fed3338
+run_name: abrasive-koi-205
+run_uuid: df17a325f79542e19fccde5e9fed3338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738850580179
+status: 3
+tags: []
+user_id: susha

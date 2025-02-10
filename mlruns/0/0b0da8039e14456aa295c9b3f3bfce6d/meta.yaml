@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0b0da8039e14456aa295c9b3f3bfce6d/artifacts
+end_time: 1738765930426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b0da8039e14456aa295c9b3f3bfce6d
+run_name: capable-gnu-801
+run_uuid: 0b0da8039e14456aa295c9b3f3bfce6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738765930237
+status: 3
+tags: []
+user_id: susha

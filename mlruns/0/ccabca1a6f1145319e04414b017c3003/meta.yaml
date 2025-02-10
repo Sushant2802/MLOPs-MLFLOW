@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ccabca1a6f1145319e04414b017c3003/artifacts
+end_time: 1738766152774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccabca1a6f1145319e04414b017c3003
+run_name: polite-midge-385
+run_uuid: ccabca1a6f1145319e04414b017c3003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738766152676
+status: 3
+tags: []
+user_id: susha
