@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs/MLOPs-MLFLOW/mlruns/897735810162364457/6a58ad1b8be54aa0a494c09473db08a2/artifacts
+end_time: 1739170248285
+entry_point_name: ''
+experiment_id: '897735810162364457'
+lifecycle_stage: active
+run_id: 6a58ad1b8be54aa0a494c09473db08a2
+run_name: rumbling-robin-121
+run_uuid: 6a58ad1b8be54aa0a494c09473db08a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739170248136
+status: 3
+tags: []
+user_id: susha

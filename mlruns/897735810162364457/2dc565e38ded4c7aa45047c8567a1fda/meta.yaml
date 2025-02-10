@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs/MLOPs-MLFLOW/mlruns/897735810162364457/2dc565e38ded4c7aa45047c8567a1fda/artifacts
+end_time: 1739170266338
+entry_point_name: ''
+experiment_id: '897735810162364457'
+lifecycle_stage: active
+run_id: 2dc565e38ded4c7aa45047c8567a1fda
+run_name: amazing-frog-869
+run_uuid: 2dc565e38ded4c7aa45047c8567a1fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739170239663
+status: 3
+tags: []
+user_id: susha

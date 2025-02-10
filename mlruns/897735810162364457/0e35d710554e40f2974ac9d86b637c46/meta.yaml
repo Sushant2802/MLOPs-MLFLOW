@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs/MLOPs-MLFLOW/mlruns/897735810162364457/0e35d710554e40f2974ac9d86b637c46/artifacts
+end_time: 1739170248654
+entry_point_name: ''
+experiment_id: '897735810162364457'
+lifecycle_stage: active
+run_id: 0e35d710554e40f2974ac9d86b637c46
+run_name: salty-horse-676
+run_uuid: 0e35d710554e40f2974ac9d86b637c46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739170248544
+status: 3
+tags: []
+user_id: susha

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs/MLOPs-MLFLOW/mlruns/897735810162364457/b486720ef64e43a6b52c262fda9ac354/artifacts
+end_time: 1739170249049
+entry_point_name: ''
+experiment_id: '897735810162364457'
+lifecycle_stage: active
+run_id: b486720ef64e43a6b52c262fda9ac354
+run_name: thundering-worm-157
+run_uuid: b486720ef64e43a6b52c262fda9ac354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739170248931
+status: 3
+tags: []
+user_id: susha

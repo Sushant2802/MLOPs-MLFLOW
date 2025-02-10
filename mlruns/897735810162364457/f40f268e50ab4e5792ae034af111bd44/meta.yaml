@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs/MLOPs-MLFLOW/mlruns/897735810162364457/f40f268e50ab4e5792ae034af111bd44/artifacts
+end_time: 1739170249180
+entry_point_name: ''
+experiment_id: '897735810162364457'
+lifecycle_stage: active
+run_id: f40f268e50ab4e5792ae034af111bd44
+run_name: sincere-fowl-106
+run_uuid: f40f268e50ab4e5792ae034af111bd44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739170249067
+status: 3
+tags: []
+user_id: susha

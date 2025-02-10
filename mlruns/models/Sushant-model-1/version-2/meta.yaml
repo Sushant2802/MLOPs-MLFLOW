@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739171504681
+current_stage: None
+description: ''
+last_updated_timestamp: 1739171504681
+name: Sushant-model-1
+run_id: 52f7c15621ba40ddab83487a49e120fc
+run_link: ''
+source: mlflow-artifacts:/248602002280697844/52f7c15621ba40ddab83487a49e120fc/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/248602002280697844/52f7c15621ba40ddab83487a49e120fc/artifacts/model
+user_id: null
+version: 2

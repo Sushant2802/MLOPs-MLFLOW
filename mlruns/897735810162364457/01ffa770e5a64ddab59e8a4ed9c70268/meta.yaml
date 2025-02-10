@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs/MLOPs-MLFLOW/mlruns/897735810162364457/01ffa770e5a64ddab59e8a4ed9c70268/artifacts
+end_time: 1739170249300
+entry_point_name: ''
+experiment_id: '897735810162364457'
+lifecycle_stage: active
+run_id: 01ffa770e5a64ddab59e8a4ed9c70268
+run_name: redolent-grouse-100
+run_uuid: 01ffa770e5a64ddab59e8a4ed9c70268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739170249195
+status: 3
+tags: []
+user_id: susha

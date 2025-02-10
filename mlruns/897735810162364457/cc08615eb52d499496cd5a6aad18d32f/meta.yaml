@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs/MLOPs-MLFLOW/mlruns/897735810162364457/cc08615eb52d499496cd5a6aad18d32f/artifacts
+end_time: 1739170249693
+entry_point_name: ''
+experiment_id: '897735810162364457'
+lifecycle_stage: active
+run_id: cc08615eb52d499496cd5a6aad18d32f
+run_name: masked-cod-134
+run_uuid: cc08615eb52d499496cd5a6aad18d32f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739170249587
+status: 3
+tags: []
+user_id: susha

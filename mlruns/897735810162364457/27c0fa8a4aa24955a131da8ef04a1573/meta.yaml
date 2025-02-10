@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPs/MLOPs-MLFLOW/mlruns/897735810162364457/27c0fa8a4aa24955a131da8ef04a1573/artifacts
+end_time: 1739170248778
+entry_point_name: ''
+experiment_id: '897735810162364457'
+lifecycle_stage: active
+run_id: 27c0fa8a4aa24955a131da8ef04a1573
+run_name: honorable-cat-575
+run_uuid: 27c0fa8a4aa24955a131da8ef04a1573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739170248671
+status: 3
+tags: []
+user_id: susha
